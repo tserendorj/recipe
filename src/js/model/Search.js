@@ -12,7 +12,7 @@ export default class Search{
             
             return this.result
         }catch(error){
-            alert("problem")
+            console.log("problem");
         }
     }
     
