@@ -3,7 +3,11 @@ export const elements = {
     searchInput: document.querySelector(".search__field"),
     searchResultDiv: document.querySelector(".results"),
     searchResultList: document.querySelector(".results__list"),
-    pagetButtons: document.querySelector(".results__pages")
+    pagetButtons: document.querySelector(".results__pages"),
+    recipeDiv: document.querySelector(".recipe"),
+    shoppingList: document.querySelector(".shopping__list"),
+    likesMenu: document.querySelector(".likes__field"),
+    likesList: document.querySelector(".likes__list"),
 };
 
 export const elementStrings = {
